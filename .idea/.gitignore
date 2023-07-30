@@ -1,8 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
 # Editor-based HTTP Client requests
 /httpRequests/
+
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
@@ -13,4 +15,4 @@ modules.xml
 opengl1.iml
 
 #ignore cmake-debug-build
-../cmake-build-debug/
+/cmake-build-debug/
