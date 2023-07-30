@@ -7,5 +7,10 @@
 /dataSources/
 /dataSources.local.xml
 
+#ignore files from JetBrains
+misc.xml
+modules.xml
+opengl1.iml
+
 #ignore cmake-debug-build
-/cmake-build-debug/
+../cmake-build-debug/
