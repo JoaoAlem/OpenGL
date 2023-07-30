@@ -13,6 +13,3 @@
 misc.xml
 modules.xml
 opengl1.iml
-
-#ignore cmake-debug-build
-/cmake-build-debug/
